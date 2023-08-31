@@ -1,0 +1,10 @@
+#firstCheck {
+    border: 1cap;
+    border-style: groove;
+    height: 75%;
+    width: 50%;
+}
+#checkSpace {
+    display: flex;
+    justify-content: space-evenly;
+}
