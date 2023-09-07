@@ -1,8 +1,8 @@
-#firstCheck {
+.checkFormat {
     border: 1cap;
     border-style: groove;
-    height: 75%;
-    width: 50%;
+    height:700px;
+    width: 450px;
 }
 #checkSpace {
     display: flex;
