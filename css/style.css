@@ -56,9 +56,11 @@ h1 {
 
 .item {
     background-color: #F0DB4F;
+    list-style-type: none;
 }
 
 .hide {
     display: none;
 }
+
 
