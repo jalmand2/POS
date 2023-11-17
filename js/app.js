@@ -49,3 +49,7 @@ function drop(e) {
     // display the draggable element
     draggable.classList.remove('hide');
 }
+
+function addCheck() {
+    document.getElementById("check").innerHTML = "NEW CHECK MADE";
+}
